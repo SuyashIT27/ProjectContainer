@@ -1,0 +1,25 @@
+.projects-section {
+  padding: 90px 8%;
+}
+
+.projects-section h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 60px;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 35px;
+}
+
+@media (max-width: 600px) {
+  .projects-section h2 {
+    font-size: 2.2rem;
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
