@@ -14,11 +14,13 @@ export const projects = [
     image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
     link: "https://dictionary-quickdefine.netlify.app/",
   },
-  // {
-  //   id: 3,
-  //   name: "Social Media App",
-  //   description: "A full stack social media app using React, Node and Express.",
-  //   image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
-  //   link: "https://your-project-link.com",
-  // },
+  {
+    id: 3,
+    name: "Taraju App",
+    description:
+      "⚖️ A fast, dynamic, and responsive digital weighing scale (Taraju) calculator built with React. Features real-time two-way calculations (Price-to-Weight & Weight-to-Price), custom unit conversions, dynamic themes, and smooth micro-animations. Powered by Websnap.",
+    image:
+      "https://i0.wp.com/puranadarwaza.com/wp-content/uploads/2024/08/Vintage-wooden-Tarazu.webp",
+    link: "https://tarajuapp.netlify.app/",
+  },
 ];
