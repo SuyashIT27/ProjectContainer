@@ -32,4 +32,13 @@ export const projects = [
       "https://chromewebstore.google.com/detail/easy-print/jfabhgjkkoljkpemojjfdhgckdbendaj",
     link: "https://easyprintaaradhya.netlify.app/",
   },
+  {
+    id: 5,
+    name: "Portfolio2.0",
+    description:
+      "Developed a responsive personal portfolio website using React.js to showcase projects, skills, certifications, and achievements. Built reusable components with a clean UI, smooth animations, responsive layouts, and direct links to GitHub and live project demos.",
+    image:
+      "https://www.linkedin.com/pulse/how-create-portfolio-strategist-baiba-matisone",
+    link: "https://suyashvermaportfolio.netlify.app/",
+  },
 ];
