@@ -23,4 +23,13 @@ export const projects = [
       "https://i0.wp.com/puranadarwaza.com/wp-content/uploads/2024/08/Vintage-wooden-Tarazu.webp",
     link: "https://tarajuapp.netlify.app/",
   },
+  {
+    id: 4,
+    name: "Easy Print",
+    description:
+      "Easy Print is a full-stack print management web application that enables customers to upload documents for printing online. It features secure file uploads, an admin dashboard for managing print requests, and real-time request tracking, helping streamline the printing process for both customers and shop owners.",
+    image:
+      "https://chromewebstore.google.com/detail/easy-print/jfabhgjkkoljkpemojjfdhgckdbendaj",
+    link: "https://easyprintaaradhya.netlify.app/",
+  },
 ];
