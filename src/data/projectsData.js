@@ -30,7 +30,7 @@ export const projects = [
       "Easy Print is a full-stack print management web application that enables customers to upload documents for printing online. It features secure file uploads, an admin dashboard for managing print requests, and real-time request tracking, helping streamline the printing process for both customers and shop owners.",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjevB6hWuygb_6lrl3A9yrqjMenvvRFop-JWT4XqtDGZvAei5JHN4nyzxP&s=10",
-    link: "https://easyprintaaradhya.netlify.app/",
+    link: " https://landing-page-easyprint.vercel.app/",
   },
   {
     id: 5,
@@ -39,6 +39,15 @@ export const projects = [
       "Developed a responsive personal portfolio website using React.js to showcase projects, skills, certifications, and achievements. Built reusable components with a clean UI, smooth animations, responsive layouts, and direct links to GitHub and live project demos.",
     image:
       "https://media.licdn.com/dms/image/v2/C4D12AQENw9GUPGXhxw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1563704499299?e=2147483647&v=beta&t=3J-GoauNYX82R23Y37PCAncHfxw3E_I4ukHmyIhMXvI",
+    link: "https://suyashvermaportfolio.netlify.app/",
+  },
+  {
+    id: 6,
+    name: "Groosery Store",
+    description:
+      "• Developed a full-stack grocery store web application with separate customer and shopkeeper panels. • Implemented product management, shopping cart, category-wise product filtering, and WhatsApp-based order placement. • Designed a responsive interface with secure admin functionality for managing products and store details.",
+    image:
+      "https://www.indiamart.com/proddetail/grocery-store-web-app-2859073181912.html?srsltid=AfmBOoprBuPrZKQhJo0JnzctU8aVHkB7CMkjaHLAh5boR3k0MMqQR0Wr",
     link: "https://suyashvermaportfolio.netlify.app/",
   },
 ];
