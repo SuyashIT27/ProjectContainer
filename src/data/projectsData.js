@@ -48,6 +48,6 @@ export const projects = [
       "• Developed a full-stack grocery store web application with separate customer and shopkeeper panels. • Implemented product management, shopping cart, category-wise product filtering, and WhatsApp-based order placement. • Designed a responsive interface with secure admin functionality for managing products and store details.",
     image:
       "https://www.gofrugal.com/sites/gweb/files/gofrugal/images/retail/supermarket-groceries/groceries-vegetables-banner.webp",
-    link: "https://suyashvermaportfolio.netlify.app/",
+    link: "https://landing-page-groosery-store.vercel.app/",
   },
 ];
