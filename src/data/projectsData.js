@@ -47,7 +47,7 @@ export const projects = [
     description:
       "• Developed a full-stack grocery store web application with separate customer and shopkeeper panels. • Implemented product management, shopping cart, category-wise product filtering, and WhatsApp-based order placement. • Designed a responsive interface with secure admin functionality for managing products and store details.",
     image:
-      "https://www.indiamart.com/proddetail/grocery-store-web-app-2859073181912.html?srsltid=AfmBOoprBuPrZKQhJo0JnzctU8aVHkB7CMkjaHLAh5boR3k0MMqQR0Wr",
+      "https://www.gofrugal.com/sites/gweb/files/gofrugal/images/retail/supermarket-groceries/groceries-vegetables-banner.webp",
     link: "https://suyashvermaportfolio.netlify.app/",
   },
 ];
